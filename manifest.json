@@ -1,0 +1,21 @@
+{
+  "name": "Centro de Protocolos RDI",
+  "short_name": "Protocolos RDI",
+  "description": "Fluxogramas de segurança dos meios de contraste",
+  "start_url": "/Centro-Protocolos-RDI/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
